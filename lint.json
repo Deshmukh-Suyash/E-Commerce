@@ -1,0 +1,14 @@
+[0m[0m
+[0m[4mE:\React\Ecommerce\src\Components\Products.jsx[24m[0m
+[0m  [2m32:6[22m  [33mwarning[39m  React Hook useEffect has a missing dependency: 'getData'. Either include it or remove the dependency array  [2mreact-hooks/exhaustive-deps[22m[0m
+[0m[0m
+[0m[4mE:\React\Ecommerce\src\Components\SearchBar.jsx[24m[0m
+[0m  [2m21:6[22m  [33mwarning[39m  React Hook useEffect has a missing dependency: 'getData'. Either include it or remove the dependency array  [2mreact-hooks/exhaustive-deps[22m[0m
+[0m[0m
+[0m[4mE:\React\Ecommerce\src\Screen\Pdp.jsx[24m[0m
+[0m  [2m20:14[22m  [31merror[39m    'err' is defined but never used                                                                             [2mno-unused-vars[22m[0m
+[0m  [2m27:3[22m   [31merror[39m    'useEffect' is not defined                                                                                  [2mno-undef[22m[0m
+[0m  [2m34:6[22m   [33mwarning[39m  React Hook useEffect has a missing dependency: 'getData'. Either include it or remove the dependency array  [2mreact-hooks/exhaustive-deps[22m[0m
+[0m[0m
+[0m[31m[1m✖ 5 problems (2 errors, 3 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
