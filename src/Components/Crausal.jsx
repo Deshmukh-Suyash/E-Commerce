@@ -1,9 +1,9 @@
 import React from "react";
 import { useState,useEffect,useRef } from "react";
-import image1 from "../Assets/image1.webp";
-import image2 from "../Assets/image2.webp";
-import image3 from "../Assets/image3.webp";
-import image4 from "../Assets/image4.webp";
+import image1 from "../assets/image1.webp";
+import image2 from "../assets/image2.webp";
+import image3 from "../assets/image3.webp";
+import image4 from "../assets/image4.webp";
 import ChevronLeft from "../Icons/ChevronLeft";
 import ChevronRight from "../Icons/ChevronRight";
 import { useNavigate } from "react-router-dom";
